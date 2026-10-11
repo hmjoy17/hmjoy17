@@ -8,7 +8,7 @@ A privacy-first Android keyboard
 
 - **Privacy by design** — what you type never leaves your device
 - **No ads, no tracking** — no analytics, no accounts, no data collection
-- **ফোনেটিক typing** — write Bangla in English letters
+- **Phonetic typing** — write Bangla with English letters
 - **Six languages** — Bangla, English, Hindi, Nepali, Urdu and Arabic languages
 - **Your data, your control** — your personal dictionary stays on your phone
 
