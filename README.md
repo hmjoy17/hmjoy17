@@ -1,10 +1,10 @@
 # Lipik
 
-**Private, offline-first tools for Bangla typing.**
+**Private tools for smooth typing.**
 
-## Lipik Keyboard
+## Lipik Privacy Keyboard
 
-A privacy-first Android keyboard built for Bangla.
+A privacy-first Android keyboard
 
 - **Privacy by design** — what you type never leaves your device
 - **No ads, no tracking** — no analytics, no accounts, no data collection
