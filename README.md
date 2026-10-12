@@ -6,6 +6,9 @@
 
 A privacy-first Android keyboard
 
+**⬇️ Download the app: [Lipik-Keyboard.apk](https://github.com/hmjoy17/Lipik/releases/download/v1.0.0/Lipik-Keyboard.apk)**
+Project page: [Lipik](https://github.com/hmjoy17/Lipik)
+
 - **Privacy by design** — what you type never leaves your device
 - **No ads, no tracking** — no analytics, no accounts, no data collection
 - **Phonetic typing** — write Bangla with English letters
