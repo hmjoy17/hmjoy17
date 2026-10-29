@@ -6,7 +6,7 @@
 
 A privacy-first Android keyboard
 
-**⬇️ Download the app: [Lipik-Keyboard.apk](https://github.com/hmjoy17/Lipik/releases/download/v1.0.0/Lipik-Keyboard.apk)**
+**⬇️ Download the app: [Lipik - Privacy Keyboard & Lipik Lite](https://github.com/hmjoy17/Lipik/releases/latest)**
 Project page: [Lipik](https://github.com/hmjoy17/Lipik)
 
 - **Privacy by design** — what you type never leaves your device
